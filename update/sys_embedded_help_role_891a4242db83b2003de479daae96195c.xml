@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="ia_admin" name="ia_admin">c23366ebdcac010059921d929b232e98</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2017-06-01 00:22:10</sys_created_on>
+        <sys_id>891a4242db83b2003de479daae96195c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c23366ebdcac010059921d929b232e98</sys_name>
+        <sys_package display_value="Angular App" source="x_snc_angular_app2">f5afbd06dbcf72003de479daae96197b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Angular App">f5afbd06dbcf72003de479daae96197b</sys_scope>
+        <sys_update_name>sys_embedded_help_role_891a4242db83b2003de479daae96195c</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-06-01 00:22:10</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_ic_task_defn_staging">
+    <sc_ic_task_defn_staging action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <assignment_details>Group: CAB Approval</assignment_details>
+        <assignment_group display_value="CAB Approval" name="CAB Approval">b85d44954a3623120004689b2d5dd60a</assignment_group>
+        <assignment_type>custom_assignment</assignment_type>
+        <assignment_user/>
+        <description/>
+        <order>100</order>
+        <sc_ic_item_staging display_value="shivam">3285a70edb0bb2003de479daae961947</sc_ic_item_staging>
+        <sc_ic_task_assign_defn_staging/>
+        <short_description>test</short_description>
+        <sys_class_name>sc_ic_task_defn_staging</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-01 07:04:48</sys_created_on>
+        <sys_id>2bf5ef4edb0bb2003de479daae9619f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="Angular App" source="x_snc_angular_app2">f5afbd06dbcf72003de479daae96197b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Angular App">f5afbd06dbcf72003de479daae96197b</sys_scope>
+        <sys_update_name>sc_ic_task_defn_staging_2bf5ef4edb0bb2003de479daae9619f3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-01 07:04:48</sys_updated_on>
+    </sc_ic_task_defn_staging>
+    <sys_translated_text action="delete_multiple" query="documentkey=2bf5ef4edb0bb2003de479daae9619f3"/>
+</record_update>

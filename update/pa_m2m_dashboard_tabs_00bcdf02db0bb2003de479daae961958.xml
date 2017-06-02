@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
+        <dashboard display_value="">4ddcdbd59393220064f572edb67ffbd4</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-01 06:23:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>00bcdf02db0bb2003de479daae961958</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>4ddcdbd59393220064f572edb67ffbd4</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Angular App" source="x_snc_angular_app2">f5afbd06dbcf72003de479daae96197b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Angular App">f5afbd06dbcf72003de479daae96197b</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_00bcdf02db0bb2003de479daae961958</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-01 06:23:06</sys_updated_on>
+        <tab display_value="New Tab">88bcdf02db0bb2003de479daae961955</tab>
+    </pa_m2m_dashboard_tabs>
+</record_update>

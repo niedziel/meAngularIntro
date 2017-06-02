@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="sys_grid_canvas" unload_date="2017-06-02 17:12:17">
+    <sys_grid_canvas action="INSERT_OR_UPDATE">
+        <legacy_page display_value="PA New Tab">ccbcdf02db0bb2003de479daae961950</legacy_page>
+        <name>PA New Tab</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-01 06:23:05</sys_created_on>
+        <sys_id>88bcdf02db0bb2003de479daae961952</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA New Tab</sys_name>
+        <sys_package display_value="Angular App" source="x_snc_angular_app2">f5afbd06dbcf72003de479daae96197b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Angular App">f5afbd06dbcf72003de479daae96197b</sys_scope>
+        <sys_update_name>sys_grid_canvas_88bcdf02db0bb2003de479daae961952</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-01 06:23:05</sys_updated_on>
+    </sys_grid_canvas>
+</record_update>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="sys_portal_page" unload_date="2017-06-02 17:12:17">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles>snc_internal</read_roles>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-01 06:23:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ccbcdf02db0bb2003de479daae961950</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Angular App" source="x_snc_angular_app2">f5afbd06dbcf72003de479daae96197b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Angular App">f5afbd06dbcf72003de479daae96197b</sys_scope>
+        <sys_update_name>sys_portal_page_ccbcdf02db0bb2003de479daae961950</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-01 06:23:05</sys_updated_on>
+        <title>PA New Tab</title>
+        <user/>
+        <view>pa_new_tab_2</view>
+    </sys_portal_page>
+</record_update>
